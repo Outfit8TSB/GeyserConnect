@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+>
+> This Function is for standalone without auth-type: Floodgate.\
+> For Floodgate Connection, Consider Geyser-ViaProxy + ViaProxy.
+
 # GeyserConnect
 
 [![forthebadge made-with-java](https://forthebadge.com/images/badges/made-with-java.svg)](https://java.com/)
